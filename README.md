@@ -26,9 +26,9 @@ I have hands on experience developing security solutions, analyzing logs, and id
 
 
 
-### Featured Projects
+## Featured Projects
 
-# 🔐 Custom SIEM Web Application
+### 🔐 Custom SIEM Web Application
 
 A web-based SIEM platform that scans IPs/domains, detects open ports, performs vulnerability checks, and logs security events.
 
@@ -41,7 +41,7 @@ A web-based SIEM platform that scans IPs/domains, detects open ports, performs v
 
 
 
-# 📊 Splunk SIEM Lab
+### 📊 Splunk SIEM Lab
 
 A hands-on SOC lab built with Splunk to simulate real-world threat detection.
 
@@ -52,7 +52,7 @@ A hands-on SOC lab built with Splunk to simulate real-world threat detection.
 
 
 
-# 🌐 Network Scanning & Enumeration
+### 🌐 Network Scanning & Enumeration
 
 Network reconnaissance project using Nmap.
 
