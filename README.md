@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Chiwendu
+# 👋 Hi, I’m Chiwendu
 
 ## 🔐 Aspiring SOC Analyst / Cybersecurity Engineer
 I build and work with security tools focused on threat detection, network analysis, and SIEM systems.
